@@ -1,0 +1,9 @@
+zhishiq:
+  redis:
+    admin:
+      setting_title: "Redis 连接设置"
+      client: "连接客户端 (默认: phpredis)"
+      host: "域名 (默认: 127.0.0.1)"
+      port: "端口 (默认: 6379)"
+      password: "密码"
+      database: "数据库 (Default: 0)"
