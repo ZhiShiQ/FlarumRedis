@@ -18,7 +18,7 @@
   },
   "require": {
     "flarum/core": "^0.1.0-beta.8",
-    "illuminate/redis": "^5.7"
+    "illuminate/redis": "^5.5"
   },
   "require-dev": {
     "phpunit/phpunit": "^7"
